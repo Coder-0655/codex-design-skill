@@ -1,4 +1,4 @@
----
+--
 name: ui-ux-codex-designer
 description: Design and implement high-quality UI/UX for websites and apps with Codex. Use when requests involve interface design, visual polish, layout decisions, component selection, responsive behavior, accessibility, design systems, shadcn/ui composition, or framework-specific UI edits in HTML/CSS, React, Next.js, Tailwind, Vue, Svelte, or React Native.
 ---
