@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: UI/UX Codex Designer
+  short_description: Design and build high-quality UI/UX across modern web and app stacks.
+  default_prompt: Design and implement polished, accessible, responsive UI with strong hierarchy and reusable tokens.
