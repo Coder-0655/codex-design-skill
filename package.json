@@ -1,0 +1,39 @@
+{
+  "name": "@coder-0655/codex-skill-ui-ux-codex-designer",
+  "version": "0.1.0",
+  "description": "Install the ui-ux-codex-designer skill into Codex ($CODEX_HOME/skills).",
+  "license": "MIT",
+  "author": "Coder-0655",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-0655/codex-design-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Coder-0655/codex-design-skill/issues"
+  },
+  "homepage": "https://github.com/Coder-0655/codex-design-skill#readme",
+  "keywords": [
+    "codex",
+    "codex-skill",
+    "ui",
+    "ux",
+    "design",
+    "shadcn",
+    "tailwind",
+    "nextjs",
+    "react"
+  ],
+  "bin": {
+    "codex-skill-ui-ux-codex-designer": "bin/install.mjs"
+  },
+  "files": [
+    "bin/",
+    "ui-ux-codex-designer/"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
